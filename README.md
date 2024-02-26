@@ -19,6 +19,16 @@ Data is organized by the following criteria :
 
 
 To create the barcode, the font IDAtomationHC39 is used. Can find it [here](https://www.dafont.com/es/idautomationhc39m.font)
+Logic: first letters from all the information described and number if is a repeted pattern.
+
+> Example :
+
+| LAST NAME  |    NAME   |   TITLE    |    CODE    |
+| :---: | :---: | :---: | :---: |
+| AUSTEN     |    JANE   |   EMMA     |    AJE0    |
+
+
+
 
 And the tutorial from [Excel Tutorials by EasyClick Academy](https://www.youtube.com/watch?v=oOLDS5vo79I) was referenced. 
 
