@@ -1,3 +1,5 @@
+#code from https://www.geeksforgeeks.org/how-to-make-a-barcode-reader-in-python/
+
 # Importing library
 import cv2
 import pandas as pd
