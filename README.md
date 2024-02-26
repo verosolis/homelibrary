@@ -2,10 +2,10 @@
 Barcode reader to implement at home
 
 ## Data Base
-'''
+```
 Manually Edition from Excel. 
 Goals : introduce information with interface
-'''
+```
 
 As start point, the data base used in this project is created manually and using  the books at home.
 Data is orginized by the following criteria :
