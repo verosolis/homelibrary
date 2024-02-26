@@ -19,7 +19,7 @@ Data is organized by the following criteria :
 
 
 To create the barcode, the font IDAtomationHC39 is used. Can find it [here](https://www.dafont.com/es/idautomationhc39m.font)
-Logic: first letters from all the information described and number if is a repeted pattern.
+Logic: first letters from all the information described and number if is a repeated pattern.
 
 > Example :
 
@@ -42,7 +42,7 @@ Goals: Create a Camera interface to read code and let user know information from
 
 Barcode Decoder Code was obtained at [GeeksforGeeks](https://www.geeksforgeeks.org/how-to-make-a-barcode-reader-in-python/)
 
-To better functionality install the libraries or dependencies listed bellow.
+To better functionality install the libraries or dependencies listed below.
 
 * Pandas
 * pyzbar
