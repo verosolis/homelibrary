@@ -4,7 +4,7 @@ Barcode reader to implement at home
 ## Data Base
 ```
 Status: Manually Edited from Excel. 
-Goals : introduce information with interface
+Goals : introduce information from interface
 ```
 
 As start point, the data base used in this project is created manually and using books at home.
